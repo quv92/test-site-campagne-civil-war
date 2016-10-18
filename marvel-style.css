@@ -1,0 +1,154 @@
+*{
+margin:0px;
+}
+body{
+	color:#ffffff;
+	background-color: 000B31;
+	background-size: cover;
+	font-family: Helvetica;
+}
+
+h1, h2, h3{
+	font-weight:bold;
+}
+
+ul, p{
+	font-size:16px;
+	font-weight:normal;
+}
+#header {
+	position:relative;
+	background-color:black;
+}
+
+#ul-header ul li {
+	display:inline-block;
+	text-align: justify;
+}
+
+#ul-titres li{
+	margin: 0px;
+	padding: 10px 5px 0px 5px;
+	list-style:none; 
+	display:inline-block;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+#ul-titres li:hover{
+	background-color: blue;
+}
+
+#ul-logos li{
+	margin: 0px;
+	padding: 0px 5px 0px 5px;
+	list-style:none; 
+	display:inline-block;
+}
+
+#banner-marvel {
+	height:50px;
+	width:80px;
+	font-size: 76px;
+	float: left;
+	padding:0px;
+    -webkit-font-smoothing: antialiased;
+}
+
+#reseaux-sociaux{
+	display:inline-block;
+	float: left;
+}
+
+#banner-homepage{
+	position:center top;
+	margin:auto;
+	width:100%;
+	height:100%;
+    background-repeat: no-repeat;
+    margin:0px;
+	}
+
+#page{
+	margin:20px;
+	padding:5px 20px 5px 20px;
+}
+
+.partie-1{
+	border-color:white;
+	border-size:1px;
+
+}
+
+#banner-film{
+	float: right;
+	width:30%;
+	height:30%;
+}
+
+.texte-1{
+
+}
+
+#banner-deluxe{
+	float:right;
+	width:27%;
+	height:27%;
+}
+
+#banner-figurine{
+	float:left;
+	width:30%;
+	height:50%;
+}
+
+#banner-bouclier{
+	float:right;
+	width:30%;
+	height:30%;
+}
+
+#banner-downey{
+	float:right;
+	width:30%;
+	height:30%;
+}
+
+.espace-1-2{
+	height:100px;
+}
+
+.espace-2-2-0{
+	height:130px;
+}
+
+.espace-2-2-1{
+	height:100px;
+}
+
+.espace-2-3{
+	height:200px;
+}
+
+.espace-4-5{
+	height:350px;
+}
+
+#partie-contacts{
+	display:inline-block;
+}
+
+.banner-facebook{
+	height:45px;
+	width:45px;
+}
+
+.banner-twitter{
+	height:45px;
+	width:45px;
+}
+
+.banner-instagram{
+	height:45px;
+	width:45px;
+}
